@@ -1,0 +1,67 @@
+
+header,footer
+{
+    background-color: purple;
+}
+header nav
+{
+    background-color: pink;
+}
+ul>li
+{
+    display: inline;
+}
+header,section
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header
+{
+    font-weight:bold;
+    text-align: center;
+}
+#sec
+{
+    border: 5px burlywood dotted;
+    border-radius: 5px;
+}
+section h2
+{
+    color:blueviolet;
+}
+header nav a
+{
+    color: green;
+}
+img
+{
+    border: 5px double peru;
+    border-radius:10px 5px;
+}
+.initiale
+{
+    float: left;
+    font-size: 40px;
+    color:red;
+    /*margin:-16px;*/
+}
+
+a:hover
+{
+    color:blue;
+}
+.social
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+#foot
+{
+    border: 5px rgb(231, 136, 13) dashed;
+    border-radius: 20%;
+    text-align: center;
+    color:aqua;
+}
+footer a
+{
+    color:aqua;
+}
